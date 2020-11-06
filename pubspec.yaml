@@ -1,7 +1,7 @@
 name: flutter_screen_adapter
 description: Flutter application different terminal screen adaptation scheme.
 version: 0.0.2
-homepage: https://git.100tal.com/jituan_xiaoheiban/flutter_screen_adapter
+homepage: https://github.com/tal-tech/flutter_screen_adapter
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
